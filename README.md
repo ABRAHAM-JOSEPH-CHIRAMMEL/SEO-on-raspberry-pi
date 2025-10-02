@@ -1,2 +1,1 @@
-# SEO-on-raspberry-pi
-we did  a 5 day student enrichment pragram session conducted at christ college of engineering based on integration and running of raspberry pi inculed sensors and different component modules 
+https://www.notion.so/raspberry-pi-sep-26985323ed9680618615e13b3f4c7722?source=copy_link
